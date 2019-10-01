@@ -10,14 +10,6 @@ In today's project, you'll be asked to not only write code to make live Ajax req
 
 ![github-portfolio.png](github-portfolio.png)
 
-## WARNING!!!
-
-The GitHub API has some serious rate limits -- only 60 requests an hour. We will hit that rate limit very quickly. In order to avoid that, do the following:
-
-- Use your browser or [Insomnia](https://insomnia.rest) to get your user data from GitHub.
-- Copy this data into a file called 'github.json'.
-- Make all your Ajax requests to 'github.json'.
-
 ## Hints
 
 Since there are no starter files provided, you'll need to create your own HTML, CSS, and JavaScript files and link them together properly. Before you start writing any JavaScript, we suggest you spend a few moments reading through the GitHub API docs listed below to get familiar with how you can obtain the data.
